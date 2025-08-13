@@ -9,9 +9,9 @@
 
 ## 📋 본문
 
-### 발표 내용 구성
+### 발표 자료
 
-[발표 자료 링크]
+[링크](https://github.com/jaengyoung/achievement-notes/blob/main/reference/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_%EC%9E%98_%EC%93%B0%EB%8A%94_%EC%82%AC%EB%9E%8C_%EC%B0%BE%EC%8A%B5%EB%8B%88%EB%8B%A4.pdf)
 
 ### 강연 사진
 
