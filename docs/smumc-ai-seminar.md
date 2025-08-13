@@ -9,9 +9,9 @@ SMUMC(상명대학교 UMC) 현직자 초청 세미나에서 **AI 세션 연사**
 
 ## 📋 본문
 
-### 발표 내용 구성
+### 발표 자료
 
-[발표 자료 링크]
+[링크](https://github.com/jaengyoung/achievement-notes/blob/main/reference/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_%EC%9E%98_%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0.pdf)
 
 ### 강연 사진
 
