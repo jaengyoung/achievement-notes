@@ -225,11 +225,13 @@ CMD ["main"]
 - name: Build and push to ECR
   uses: docker/build-push-action@v6
   with:
-    context: source/lambda
+    context: apps/lambda
     push: true
     tags: ${{ env.ACCOUNT_ID }}.dkr.ecr.${{ env.AWS_REGION }}.amazonaws.com/${{ env.ECR_REPOSITORY_NAME }}:${{ env.IMAGE_TAG }}
     platforms: linux/amd64
-    cache-from: type=gha    # GitHub Actions 캐시에서 읽기
+    provenance: false
+    sbom: false
+    cache-from: type=gha         # GitHub Actions 캐시에서 읽기
     cache-to: type=gha,mode=min  # GitHub Actions 캐시에 저장
 ```
 
