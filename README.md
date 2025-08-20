@@ -10,6 +10,7 @@
 
 | 제목 | 기간 |
 |------|------|
+| [🎯 타겟팅 광고 수집하기: 쿠키 활용을 통한 기존 방식의 한계 극복](docs/regional-targeting-by-cookie.md) | 2025-08-20 ~ 2025-08-20 |
 | [🐳 Docker 빌드 성능 최적화: 캐시 전략으로 85% 빌드 시간 단축하기](docs/docker-build-performance-analysis.md) | 2025-08-12 ~ 2025-08-12 |
 | [⛷️ 확률 기반 트리 드리프팅: 키워드 분류 정확도 18.3% 향상과 처리 속도 3배 개선](docs/nol-keyword-classification-system.md) | 2025-08-06 ~ 2025-08-07 |
 | [📥 S3 스토리지 비용 폭증 해결: 압축 알고리즘 개선으로 87% 용량 절감 달성](docs/s3-storage-cost-optimization.md) | 2025-08-04 ~ 2025-08-05 |
@@ -19,4 +20,4 @@
 
 ---
 
-*Last updated: 2025-08-14*
+*Last updated: 2025-08-20*
