@@ -15,11 +15,11 @@ SMUMC(상명대학교 UMC) 현직자 초청 세미나에서 **AI 세션 연사**
 
 ### 강연 사진
 
-<img src="https://github.com/user-attachments/assets/c2830b00-f4af-41c8-a2ea-b6d702822bdb" width="50%">
+<img src="https://github.com/user-attachments/assets/c2830b00-f4af-41c8-a2ea-b6d702822bdb">
 
-<img src="https://github.com/user-attachments/assets/b326f1a3-1d17-4de1-b399-978e2b8fc2fe" width="50%">
+<img src="https://github.com/user-attachments/assets/b326f1a3-1d17-4de1-b399-978e2b8fc2fe">
 
-<img src="https://github.com/user-attachments/assets/8caff617-0391-4c69-8c74-1c8ea5f1d6bb" width="50%">
+<img src="https://github.com/user-attachments/assets/8caff617-0391-4c69-8c74-1c8ea5f1d6bb">
 
 ---
 

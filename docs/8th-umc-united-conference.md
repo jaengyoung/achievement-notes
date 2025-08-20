@@ -15,11 +15,11 @@
 
 ### 강연 사진
 
-<img src="https://github.com/user-attachments/assets/5ab3bd43-e865-4dec-a3b7-c0c0dc0c6da1" width="50%">
+<img src="https://github.com/user-attachments/assets/5ab3bd43-e865-4dec-a3b7-c0c0dc0c6da1">
 
-<img src="https://github.com/user-attachments/assets/448fe87a-d911-4894-989a-2aabc0c5f67f" width="50%">
+<img src="https://github.com/user-attachments/assets/448fe87a-d911-4894-989a-2aabc0c5f67f">
 
-<img src="https://github.com/user-attachments/assets/5bb5f08b-3d77-47d6-ab71-47bc10bc1fe3" width="50%">
+<img src="https://github.com/user-attachments/assets/5bb5f08b-3d77-47d6-ab71-47bc10bc1fe3">
 
 ---
 
